@@ -1,4 +1,6 @@
-<img width="1440" alt="Desktop  Home" src="https://user-images.githubusercontent.com/94769388/212436915-89a67fae-89f5-4853-8556-fd68517a29f4.png">
+<img width="1180" alt="Desktop  Home" src="https://user-images.githubusercontent.com/94769388/212690157-9c2ad7d0-0248-4ddf-875b-afcf0d8a3eb2.gif">
+
+
 
 
 
