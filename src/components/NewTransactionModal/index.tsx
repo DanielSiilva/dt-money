@@ -16,7 +16,7 @@ const newTransactionFormSchema = z.object({
 type NewTransactionFormInputs = z.infer<typeof newTransactionFormSchema>;
 
 export function NewTransactionModal() {
-  
+
   const {
     control,
     register,
@@ -69,6 +69,7 @@ export function NewTransactionModal() {
           <Controller
             control={control}
             name="type"
+            
             render={({ field }) => {
 
               return (
