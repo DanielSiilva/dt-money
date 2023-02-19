@@ -16,7 +16,8 @@ export function Transactions() {
         <SearchForm />
         <TransactionsTable>
           <tbody>
-            {transactions.map(transaction => {
+            {transactions
+              .map(transaction => {
               return (
                 <tr key={transaction.id}>
                   <td width="50%">{transaction.description}</td>
