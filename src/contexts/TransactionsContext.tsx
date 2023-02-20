@@ -33,6 +33,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   const [transactions, setTransactions] = useState<Transaction[]>([]);
 
   async function fetchTransactions(query?: string) {
+    
     const response = await api.get('transactions', {
       params: {
         _sort: 'createdAt',
