@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Compra de sdd",
+      "price": 450,
+      "category": "sáida",
+      "type": "outcome",
+      "createdAt": "2023-02-20T01:33:26.554Z",
+      "id": 7
     }
   ]
 }
